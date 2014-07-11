@@ -11,9 +11,9 @@
         <name>default</name>
     </organization>
     <properties>
-        <scalaVersion>2.10</scalaVersion>
         <sbtVersion>0.13</sbtVersion>
-        <extraDependencyAttributes xml:space="preserve">+e:sbtVersion:#@#:+0.13:#@#:+module:#@#:+sbt-web:#@#:+e:scalaVersion:#@#:+2.10:#@#:+organisation:#@#:+com.typesafe.sbt:#@#:+branch:#@#:+@#:NULL:#@:#@#:+revision:#@#:+1.0.2:#@#:</extraDependencyAttributes>
+        <scalaVersion>2.10</scalaVersion>
+        <extraDependencyAttributes xml:space="preserve">+e:scalaVersion:#@#:+2.10:#@#:+revision:#@#:+1.0.2:#@#:+module:#@#:+sbt-web:#@#:+e:sbtVersion:#@#:+0.13:#@#:+organisation:#@#:+com.typesafe.sbt:#@#:+branch:#@#:+@#:NULL:#@:#@#:</extraDependencyAttributes>
     </properties>
     <dependencies>
         <dependency>

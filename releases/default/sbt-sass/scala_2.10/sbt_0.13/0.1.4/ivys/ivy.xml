@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="default" module="sbt-sass" revision="0.1.4" status="release" publication="20140717125023" e:scalaVersion="2.10" e:sbtVersion="0.13">
+	<info organisation="default" module="sbt-sass" revision="0.1.4" status="release" publication="20140801163521" e:scalaVersion="2.10" e:sbtVersion="0.13">
 		<description>
 		sbt-sass
 		</description>

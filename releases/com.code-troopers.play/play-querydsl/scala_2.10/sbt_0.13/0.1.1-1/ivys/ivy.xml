@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="com.code-troopers.play" module="play-querydsl" revision="0.1.1-1" status="release" publication="20141119140801" e:scalaVersion="2.10" e:sbtVersion="0.13">
+	<info organisation="com.code-troopers.play" module="play-querydsl" revision="0.1.1-1" status="release" publication="20141121134244" e:scalaVersion="2.10" e:sbtVersion="0.13">
 		<description>
 		play-querydsl
 		</description>
